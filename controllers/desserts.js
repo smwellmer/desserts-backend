@@ -35,7 +35,7 @@ const dessertSeed = [
     {
         name: "Classic Shortbread Cookies",
         category: "Cookie",
-        img: "https://www.simplyrecipes.com/thmb/Outp27wI4NY8h4LbCrTudldnXJ0=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__06__classic_shortbread_hero1-b47d8b3b57ce4c618675c87a42a068a4.jpg",
+        img: "https://www.simplyrecipes.com/thmb/AznN29ntZ-Dg4GlYn_nJ8TY8AaY=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__06__classic_shortbread_hero4-1-005065f6609e4f08952c01d39a30e24a.jpg",
         url: "https://www.simplyrecipes.com/recipes/classic_shortbread_cookies/"
     }
 ]
