@@ -29,7 +29,7 @@ const dessertSeed = [
     {
         name: "Tiramisu",
         category: "No-Bake",
-        img: "https://d14iv1hjmfkv57.cloudfront.net/assets/recipes/tiramisu/_1200x600_crop_center-center_82_line/80244/tiramisu.jpg?mtime=20200828094134&focal=none&tmtime=20210324094447",
+        img: "https://static01.nyt.com/images/2017/04/05/dining/05COOKING-TIRAMISU1/05COOKING-TIRAMISU1-articleLarge.jpg",
         url: "https://barefootcontessa.com/recipes/tiramisu"
     },
     {
